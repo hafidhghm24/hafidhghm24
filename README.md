@@ -25,6 +25,11 @@ Passionné par la robotique informatique et l’IA, j'expérimente en Python, RO
 ---
 
 ### 📈 Activité GitHub
-*(Note : Si les images ci-dessous ne s'affichent pas, c'est que ton réseau bloque les générateurs de stats dynamiques)*
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hafidhghm24&show_icons=true&theme=ocean" alt="Stats" />
+
+---
+
+<p align="center">
+  <i>"La meilleure façon de prédire l'avenir, c'est de l'inventer"</i>
+</p>
