@@ -24,12 +24,6 @@ Passionné par la robotique informatique et l’IA, j'expérimente en Python, RO
 
 ---
 
-### 🤖 Projets en Vedette
-* 🐍 **[Robomanager](https://github.com/hafidhghm24/Robomanager)** : Simulation Python de robots autonomes sur carte virtuelle.
-* 🐢 **[TP_turtel](https://github.com/hafidhghm24/TP_turtel)** : Environnement 2D et simulation de trajectoires avec Python Turtle.
-
----
-
 ### 📈 Activité GitHub
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hafidhghm24&show_icons=true&theme=ocean" height="170" />
