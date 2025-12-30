@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Hafidh%20GHOUILEM&fontSize=70&animation=fadeIn" alt="Bannière" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Hafidh%20GHOUILEM&fontSize=70&animation=fadeIn" />
 
   ### 🤖 Futur Ingénieur en Robotique & IA | SRI @ UPSSITECH
   
@@ -29,14 +29,14 @@ Passionné par la convergence entre l'informatique et les systèmes physiques, j
 ---
 
 ### 📊 Statistiques & Activité
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafidhghm24&show_icons=true&theme=radical&hide_border=true" alt="Stats de Hafidh" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidhghm24&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" height="180" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafidhghm24&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidhghm24&layout=compact&theme=radical&hide_border=true" height="180" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafidhghm24&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafidhghm24&theme=radical&hide_border=true" />
+</p>
 
 ---
 
