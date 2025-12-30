@@ -26,7 +26,8 @@ Passionné par la robotique informatique et l’IA, j'expérimente en Python, RO
 
 ### 📈 Activité GitHub
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hafidhghm24&show_icons=true&theme=ocean" alt="Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hafidhghm24&show_icons=true&theme=ocean" alt="Stats" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hafidhghm24&layout=compact&theme=ocean" alt="Langages" />
+
 
 ---
 
