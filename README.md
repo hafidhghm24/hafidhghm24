@@ -18,17 +18,19 @@ Passionné par la robotique informatique et l’IA, j'expérimente en Python, RO
 ---
 
 ### 🛠 Compétences Techniques
-
 * **Langages :** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8A00?style=flat-square&logo=java&logoColor=white)
-
 * **Robotique & OS :** ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-FFAB40?style=flat-square&logo=gazebo&logoColor=white)
-
 * **Hardware :** ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) ![Automatique](https://img.shields.io/badge/Automatique-blue?style=flat-square)
 
 ---
 
-### 📈 Activité GitHub
+### 🤖 Projets en Vedette
+* 🐍 **[Robomanager](https://github.com/hafidhghm24/Robomanager)** : Simulation Python de robots autonomes sur carte virtuelle.
+* 🐢 **[TP_turtel](https://github.com/hafidhghm24/TP_turtel)** : Environnement 2D et simulation de trajectoires avec Python Turtle.
 
+---
+
+### 📈 Activité GitHub
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hafidhghm24&show_icons=true&theme=ocean" height="170" />
   &nbsp;&nbsp;
