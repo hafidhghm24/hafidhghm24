@@ -29,7 +29,7 @@ Passionné par la robotique informatique et l’IA, j'expérimente en Python, RO
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hafidhghm24&show_icons=true&theme=ocean" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hafidhghm24&layout=compact&theme=ocean" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hafidhghm24&layout=compact&theme=ocean&hide=html,css,javascript,typescript" height="170" />
 </p>
 
 ---
