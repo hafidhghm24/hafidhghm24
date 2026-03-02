@@ -1,6 +1,4 @@
-<img width="1063" height="259" alt="image" src="https://github.com/user-attachments/assets/940a678c-f369-4669-85d2-eb55f501a5e5" />
-
-
+<img width="4192" height="1024" alt="baniére linkedin" src="https://github.com/user-attachments/assets/9943c7ed-dabe-400e-bf00-ca84b2efa85c" />
 # Hafidh GHOUILEM
 **Futur Ingénieur en Robotique & IA | Étudiant SRI à l'UPSSITECH**
 
